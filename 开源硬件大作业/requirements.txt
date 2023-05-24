@@ -1,0 +1,9 @@
+pyaudio
+mcpi
+keyboard
+baidu-aip
+PyUserInput
+chardet
+pynput
+mediapipe
+numpy
